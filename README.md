@@ -16,11 +16,20 @@ CrystalGen integrates:
 🌍 Flask Backend + HTML/JS Frontend for seamless web experience
 
 🎨 3D visualization (Three.js / Plotly / Py3Dmol) for viewing atomic structures
+
+
+
+project structure 
+
+
 <img width="266" height="717" alt="image" src="https://github.com/user-attachments/assets/c61a8c5f-e502-4925-bd18-b0011ce574d3" />
+
+
+
 
 ⚙️ Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/CrystalGen.git
+git clone https://github.com/harinimanga31/CrystalGen
 cd CrystalGen
 
 2️⃣ Create and Activate Virtual Environment
